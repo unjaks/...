@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=JetBrains Mono');
+
 body{
     display: flex;
     justify-content: center;
     align-items: center;
+
     background: #1e1e2e;
+
+    font-family: 'JetBrains Mono';
+
+    overflow: hidden;
 }
 
 .base_text{
